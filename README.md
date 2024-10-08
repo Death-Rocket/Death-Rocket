@@ -15,7 +15,7 @@
 
 ## Contributors
 
-- [Felix](https://gitlabstudents.isartintra.com/f.becaud)
+- [Felix](https://github.com/fBecaud)
 - [Gabriel](https://github.com/piking77420)
 - [Paul](https://github.com/susanoo1004)
 - [Yohann](https://github.com/YohannDR)
