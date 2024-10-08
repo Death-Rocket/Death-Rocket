@@ -1,5 +1,0 @@
-Input ps5
-https://dev.epicgames.com/community/learning/tutorials/r295/unreal-engine-5-1-enhanced-input-how-to-hook-up-dual-sense-controller-wired
-
-ps4
-https://forums.unrealengine.com/t/tutorial-ue4-using-dualshock4-controller-via-usb-ps4-ds4-gamepad/133314?page=2
