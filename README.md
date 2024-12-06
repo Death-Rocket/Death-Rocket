@@ -6,6 +6,7 @@
   - [Summary](#summary)
   - [Contributors](#contributors)
   - [Concept](#concept)
+  - [Demo](#demo)
   - [Controls](#controls)
 - [Features](#features)
   - [Rocket](#rocket)
@@ -23,6 +24,9 @@
 ## Concept
 
 A multiplayer death match game where you use rockets to kill your opponent(s).
+
+## Demo
+To play a demo single player for windows visit our [itch.io page](https://felixbecaud.itch.io/death-rocket).
 
 ## Controls
 
